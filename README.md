@@ -15,6 +15,9 @@ También con una funcionalidad adicional la cual es cambiar de tema(Color) el di
 
 AL momento de realizar las operaciones, en la pantallita superior aparece la operación que se ejecuta y en el cuadro grande aparece la respuesta, como veran a continuación.
 Como pueden ver realiza las operaciones fundamentales de sumar, restar, dividir y multiplicar.
+
+
+
 ![image](https://user-images.githubusercontent.com/105298870/183820690-2f928200-6c81-48e2-b211-1d945e2af9e5.png)    ![image](https://user-images.githubusercontent.com/105298870/183821065-353d5a03-9e8e-4487-8dbf-47750a6f94b4.png)    ![image](https://user-images.githubusercontent.com/105298870/183821122-59d105f3-501a-4a7b-b4d8-7247225303a4.png)
 
 
